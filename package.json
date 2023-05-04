@@ -1,5 +1,10 @@
 {
   "name": "PeakHub",
   "version": "0.1.0",
-  "description": "Official MB INC Software place downloadable with Peak."
+  "description": "Official MB INC Software place downloadable with Peak.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbcraft-exe/PeakHub.git",
+    "branch": "main"
   }
+}
